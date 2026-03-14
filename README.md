@@ -1,7 +1,11 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane;Estudante+de+Desenvolvimento+de+Sistemas" />
+</p>
+
 # 👩‍💻    Olá, eu sou Dayane Barros!
 
 🎓 Estudante de Desenvolvimento de Sistemas  
-💻 Aprendendo programação e tecnologia: Python e Javascript, HTML e CSS.  
+💻 Aprendendo programação e tecnologia: Python, HTML e CSS.  
 🚀 Preparando-se para o mercado de tecnologia.
 
 ---
@@ -22,8 +26,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact)
 
 ---
 
