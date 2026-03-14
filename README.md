@@ -8,11 +8,14 @@
 
 ## 🚀 Tecnologias que estou aprendendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Css](https://img.shields.io/badge/Css-F05032?style=for-the-badge&logo=css &logoColor=white)
-![Html](https://img.shields.io/badge/Html-F05032?style=for-the-badge&logo=html&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div style="display: inline_block"><br> 
+ <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+ <img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+ <img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+</div>
 
 ---
 
