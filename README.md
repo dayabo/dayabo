@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane Barros!" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane+Barros!" />
 </p>
   
 🚀 Preparando-se para o mercado de tecnologia.
