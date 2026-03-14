@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane;Estudante+de+Desenvolvimento+de+Sistemas" />
+<img src="https://readme-typing-svg.herokuapp.com?size=60&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane!" />
 </p>
-
-# 👩‍💻    Olá, eu sou Dayane Barros!
 
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Aprendendo programação e tecnologia: Python, HTML e CSS.  
