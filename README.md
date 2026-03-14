@@ -1,10 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=5000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane!" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=36BCF7&center=true&vCenter=true&width=600&lines=Seja+Bem-Vindo+ao+meu+GitHub!;Olá!+Eu+sou+Dayane!" />
 </p>
   
 🚀 Preparando-se para o mercado de tecnologia.
-🎓 Estudante de Desenvolvimento de Sistemas  
-💻 Aprendendo programação: Python, HTML e CSS.  
+
+🎓 Estudante de Desenvolvimento de Sistemas
+
+💻 Aprendendo programação. 
 
 ---
 
